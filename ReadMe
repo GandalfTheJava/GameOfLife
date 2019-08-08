@@ -44,7 +44,8 @@ simulation as each stage iterates.
 each stage of the simulation for a period of time otherwise the screen might be updated too quickly.
 When the simulation is reset this iteration number should be reset to zero.
 6) Allowing the user to select the starting arrangement by using the mouse, i.e. clicking which cells start
-as alive. A system to allow the state of the cell to “toggle” between alive and dead using the mouse
+as alive. A system to allow the state of the cell to “toggle” between alive and dead using the mouse. 
+(Press CTRL and click mouse on MAC, right click on PC to turn alive cells to dead cells).
 
 ##Images
 
