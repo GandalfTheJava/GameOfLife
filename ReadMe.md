@@ -47,7 +47,7 @@ When the simulation is reset this iteration number should be reset to zero.
 as alive. A system to allow the state of the cell to “toggle” between alive and dead using the mouse. 
 (Press CTRL and click mouse on MAC, right click on PC to turn alive cells to dead cells).
 
-## Images
+## Showcasing functionalities
 ![Showcasing functionalities](Images/GameOfLife.gif). 
 
 
