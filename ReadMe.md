@@ -48,8 +48,7 @@ as alive. A system to allow the state of the cell to “toggle” between alive 
 (Press CTRL and click mouse on MAC, right click on PC to turn alive cells to dead cells).
 
 ## Images
-![](Images/Screenshot%202019-08-08%20at%2020.07.19.png). 
-![](https://github.com/GandalfTheJava/GameOfLife/blob/master/Images/Screenshot%202019-08-08%20at%2020.09.20.png)
+![Showcasing functionalities](Images/GameOfLife.gif). 
 
 
 
