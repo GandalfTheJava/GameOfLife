@@ -1,6 +1,6 @@
-###Conway's Game of Life
+### Conway's Game of Life
 
-#Task
+# Task
 The GOL simulation takes place on an n by n grid of cells or squares where each square can be alive or dead (two states). 
 The state of the board (state of all of the cells) is transformed each move (or time period) by
 determining if a cell (or square) remains alive or dead (or changes) by applying a set of very simple rules.
@@ -15,12 +15,12 @@ edges or in corners would have less than eight neighbours. To get around this pr
 “wraps around” on the board, i.e. neighbours for a square at the very top of a board include some of the ones
 at the bottom of the board and far left wraps around to the right etc…
 
-##Rules 
+## Rules 
 1) Dead to Alive: Only if three of the eight neighbours are alive
 2) Alive to Dead: less than two neighbours alive or more than three
 
 
-##Summary
+## Summary
 Using Java Swing library within the Eclipse IDE, a graphical user interface was implemented to visualize the 
 simulation through the various iterations. The project was of part the final year assessment for my programming module and I 
 received over 90% for the task. 
@@ -47,7 +47,7 @@ When the simulation is reset this iteration number should be reset to zero.
 as alive. A system to allow the state of the cell to “toggle” between alive and dead using the mouse. 
 (Press CTRL and click mouse on MAC, right click on PC to turn alive cells to dead cells).
 
-##Images
+## Images
 ![](Images/Screenshot%202019-08-08%20at%2020.07.19.png). 
 ![](Images/Screenshot%202019-08-08%20at%2020.09.20.png)
 
